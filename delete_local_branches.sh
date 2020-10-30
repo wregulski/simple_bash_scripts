@@ -1,0 +1,1 @@
+git branch -d `git branch --list 'wregulski*'`
